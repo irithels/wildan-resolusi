@@ -2,5 +2,7 @@ Rencana Wildan Content
 -Javascript
 -php
 -react js
--laravel 
--flutter
+-laravel
+-angular
+-python
+
