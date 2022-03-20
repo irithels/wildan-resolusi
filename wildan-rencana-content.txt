@@ -3,4 +3,6 @@ Rencana Wildan Content
 -php
 -react js
 -laravel 
+-vue js
+-codeigniter
 -flutter
