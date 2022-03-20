@@ -2,3 +2,4 @@ Rencana Wildan Content
 -Javascript
 -php
 -react js
+-laravel 
